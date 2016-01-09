@@ -3,7 +3,7 @@ It's a simple console app(Written in JAVA) that help you to download books from 
 # USAGE
 open cmd and go to the path where jar file is located then type this command:
 <br />
-java -jar WileyDownMergePDF.jar
+' java -jar WileyDownMergePDF.jar '
 <br />
 then paste book url from: http://onlinelibrary.wiley.com/
 
